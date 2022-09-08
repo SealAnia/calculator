@@ -1,0 +1,1 @@
+add 7 multiply 2 apply -8 
